@@ -133,6 +133,7 @@ a {
 
 .curious{
 	background-image: url('../photos/ducks.JPG');
+	background-color: #C4C7AD;
 	width: 100%;
 	display: flex;
 	display: block;
